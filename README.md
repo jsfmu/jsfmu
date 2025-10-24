@@ -1,5 +1,6 @@
 ## I code stuff
 
+### I'm currently working on polishing my profile. Stay in tune!
 <!--
 **jsfmu/jsfmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
