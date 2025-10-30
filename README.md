@@ -1,6 +1,6 @@
-## I code stuff
+## Hello World! I'm Joseph Fujimoto
 
-### I'm currently working on polishing my profile. Stay in tune!
+### Let me cook...
 <!--
 **jsfmu/jsfmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
